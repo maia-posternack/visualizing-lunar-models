@@ -2,3 +2,5 @@ Data can be found on Nasa [here](https://pds-geosciences.wustl.edu/lro/urn-nasa-
 
 The paper, [Shades of Science: Tensions in Color, Representation, and Scientific Reality in Dr. Julie Stopar’s Scientific Figures](https://drive.google.com/file/d/1GJhJpAC_ZKRrJGLDtVx4eHG75-NlVjp3/view?usp=sharing), argues that the use of color in scientific figures highlights layers of mediation, ambiguity, and subjective interpretation present in the complicated process of visual data translation by creating
 a unique sublime beauty that spotlights both the limitations and possibilities of colonizing the Moon.
+
+*Despite every attempt to capture and explain it, the Moon remains a symbol of humanity’s search for knowledge, innovation, and certainty. Its abstraction reminds us to also focus on imagination, and beauty, and embrace the unknown, instead of searching for one, singular, objective truth.*
